@@ -109,7 +109,7 @@ class MY_Form_validation extends CI_Form_validation {
 			case UPLOAD_ERR_PARTIAL:
 				return $this->CI->lang->line('error_partial_upload');
 			case UPLOAD_ERR_NO_FILE:
-				return $this->CI->lang->line('error_partial_upload');
+				return $this->CI->lang->line('file_required');
 			case UPLOAD_ERR_NO_TMP_DIR:
 				return $this->CI->lang->line('error_temp_dir');
 			case UPLOAD_ERR_CANT_WRITE:
