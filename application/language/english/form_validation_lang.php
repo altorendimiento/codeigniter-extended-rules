@@ -20,4 +20,4 @@ $lang['error_stopped']					= "File upload stopped by extension";
 $lang['error_unexpected']				= "Unexpected file upload error. Error: %s";
 
 /* End of file form_validation_lang.php */
-/* Location: ./system/language/spanish/form_validation_lang.php */
+/* Location: ./system/language/english/form_validation_lang.php */
